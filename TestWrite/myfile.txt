@@ -1,0 +1,119 @@
+Cash
+Cash & Bank
+Marketable Securities
+Inventory
+Raw Materials
+Work-in-progress
+Deposit-short Term
+Accounts Receivable
+Notes Receivable
+Less: Provision For Bad Debts
+Other Receivables / Accruals
+Prepayments
+Due From Parent
+Inter-company Loans
+Due From Directors / Shareholders
+Loans & Advances
+Investments
+Deferred Taxation
+Tax Refund
+Other Current Assets
+Property, Plant & Equipment
+Land & Buildings
+Leasehold Improvements
+Plant & Equipment
+Transportation Vehicles
+Furniture, Fixtures & Fitting
+Office Equipment
+Assets In Construction
+Land Rights
+Asset Revaluation
+Less Accumulated Depreciation
+Other Fixed Assets
+Fixtures And Equipment
+Furniture And Vehicles
+Investment In Subsidiaries
+Investment In Affiliates
+Investment
+Shares (Listed)
+Shares (Unlisted)
+Shares
+Investment Properties
+Other Investments
+Notes Receivable
+Due From Parent
+Inter-company Loans
+Due From Directors / Shareholders
+Deferred Expenditure
+Long-term Deposit
+Long-term Loans
+Development Properties
+Other Assets
+Intangibles
+Goodwill
+Trademark / Copyright / Patent
+Deferred Expenditure
+Exploration Cost
+Pre-operative Expenses
+Other Intangibles
+Accounts Payable
+Notes Payable
+Bank Overdraft
+Loans Hire Purchase
+Loans Secured
+Loans Unsecured
+Bank Loans
+Creditors & Borrowings
+Current Portion Of Long-term Debt
+Debentures & Bonds
+Due To Customers
+Other Payables / Accruals
+Provision For Income Tax
+Provision For Dividends
+Provisions
+Due To Parent
+Inter-company Loans
+Due To Directors / Shareholders
+Lease Liabilities
+Deferred Taxation
+Deferred Income
+Provident & Pensions
+Other Current Liabilities
+Creditors & Borrowings
+Mortgages
+Loans Secured
+Loans Unsecured
+Loans Hire Purchase
+Bank Loans
+Debentures & Bonds
+Deferred Taxation
+Deferred Income / Deferred Liabilities
+Provisions
+Provident & Pensions
+Notes Payable
+Bills Payable
+Due To Parent
+Inter-company Loans
+Due To Directors / Shareholders
+Due To Customers
+Lease Liabilities
+Minority Interests
+Other Non-current Liabilities
+Capital
+Capital Reserves
+General Reserves
+Legal Reserves
+Reserves
+Share Premium
+Head Office Account
+Revaluation Surplus (Deficit)
+Surplus (Deficit)
+Foreign Exchange Adjustments
+Retained Earnings (Loss)
+Minority Interest
+Other Equity
+
+
+
+
+

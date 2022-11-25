@@ -1,0 +1,34 @@
+Sales Type:
+Less: Cost Of Sales
+Gross Profit (Loss)
+Other Operating Income
+Total Expenditure
+Services
+Employee Cost / Payroll
+Selling & Administration Expenses
+Depreciation / Amortisation
+General Operating Expenses
+Operating Profit/loss After Dep. & Before Interest
+Other Non Operating Income
+Interest
+Total Financial Expenses
+Net Profit(loss) Before Tax
+Plus (Minus) Extraordinary Items
+Net Profit Before Tax & After Extraordinary Items
+Income Tax
+Net Profit(loss) After Tax
+Plus (Minus) Extraordinary Items
+Extraordinary Items - Assets
+Extraordinary Items - Income Tax
+Extraordinary Items - Divestiture
+Extraordinary Items - Others
+Net Profit (Loss) After Tax & Extraordinary Items
+Minority Interests
+Less: Dividends & Transfers To Reserves
+Less: Dividends
+Less: Transfer To Reserves
+Less: Transfer To Head Office Account
+Prior Year Adjustments
+Transfer From Reserve To Retained Earnings
+Plus (Minus) Retained Earnings (Loss) B/f
+Retained Earnings (Loss) C/f
